@@ -1,0 +1,19 @@
+# machine-specific
+.mcp.json
+**/node_modules/
+**/__pycache__/
+*.pyc
+*.log
+.env
+**/.claude/settings.local.json
+# your work stays on your PC: footage, renders, projects
+/jobs/
+*.mp4
+*.mov
+*.wav
+!/presets/**/*.wav
+*.mp3
+!/.claude/skills/**/*.mp3
+*.prproj
+*.aep
+*.zip

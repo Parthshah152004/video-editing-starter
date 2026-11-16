@@ -1,0 +1,11 @@
+{
+    "repos":  [
+                  {
+                      "name":  "video-editing-starter",
+                      "path":  "Desktop\\Video Editing Starter"
+                  }
+              ],
+    "owner":  "Parthshah152004",
+    "share_memory":  false,
+    "_comment":  "Video Editing Starter. share_memory=false: Claude\u0027s notes are never uploaded from this copy."
+}
